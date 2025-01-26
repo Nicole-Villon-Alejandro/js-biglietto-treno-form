@@ -54,6 +54,10 @@ button:hover {
     background-color: gray;
 }
 
+.hidden {
+    display: none;
+}
+
 #output {
     background-color: white;
     color: #b40e3d;
@@ -62,7 +66,6 @@ button:hover {
     max-width: 600px;
     margin: 20px auto;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    display: none;
 }
 
 table {
